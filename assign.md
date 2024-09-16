@@ -1,5 +1,3 @@
-Here are the answers without the numbers:
-
  B) Download the Dart SDK
  D) dart --version
  B) Update your PATH
